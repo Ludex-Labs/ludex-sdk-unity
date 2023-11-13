@@ -1,6 +1,6 @@
 ### About
 
-This repository contains the official Javascript & Typescript SDK for the Ludex API.
+This repository contains the official Unity & C# SDK for the Ludex API.
 For usage and documentation head over to our [official documentation](https://docs.ludex.gg/unity-sdk).
 
 #### Before You Begin
